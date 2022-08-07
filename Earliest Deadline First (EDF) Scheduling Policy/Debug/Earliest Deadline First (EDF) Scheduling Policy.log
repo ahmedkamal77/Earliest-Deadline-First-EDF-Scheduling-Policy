@@ -1,0 +1,4 @@
+﻿  Earliest Deadline First (EDF) Scheduling Policy.cpp
+C:\Users\HP\Desktop\Earliest Deadline First (EDF) Scheduling Policy\Earliest Deadline First (EDF) Scheduling Policy\Earliest Deadline First (EDF) Scheduling Policy.cpp(71,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\Earliest Deadline First (EDF) Scheduling Policy\Earliest Deadline First (EDF) Scheduling Policy\Earliest Deadline First (EDF) Scheduling Policy.cpp(103,31): warning C4018: '<': signed/unsigned mismatch
+  Earliest Deadline First (EDF) Scheduling Policy.vcxproj -> C:\Users\HP\Desktop\Earliest Deadline First (EDF) Scheduling Policy\Debug\Earliest Deadline First (EDF) Scheduling Policy.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Earliest Deadline First (EDF) Scheduling Policy", "Earliest Deadline First (EDF) Scheduling Policy\Earliest Deadline First (EDF) Scheduling Policy.vcxproj", "{3A3B64FC-BCAB-4055-AEEE-51238EE91F14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A3B64FC-BCAB-4055-AEEE-51238EE91F14}.Debug|x64.ActiveCfg = Debug|x64
+		{3A3B64FC-BCAB-4055-AEEE-51238EE91F14}.Debug|x64.Build.0 = Debug|x64
+		{3A3B64FC-BCAB-4055-AEEE-51238EE91F14}.Debug|x86.ActiveCfg = Debug|Win32
+		{3A3B64FC-BCAB-4055-AEEE-51238EE91F14}.Debug|x86.Build.0 = Debug|Win32
+		{3A3B64FC-BCAB-4055-AEEE-51238EE91F14}.Release|x64.ActiveCfg = Release|x64
+		{3A3B64FC-BCAB-4055-AEEE-51238EE91F14}.Release|x64.Build.0 = Release|x64
+		{3A3B64FC-BCAB-4055-AEEE-51238EE91F14}.Release|x86.ActiveCfg = Release|Win32
+		{3A3B64FC-BCAB-4055-AEEE-51238EE91F14}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE2BDD44-0279-4617-B536-543934880B22}
+	EndGlobalSection
+EndGlobal
